@@ -1,0 +1,20 @@
+#to find unicode vaule  #to find charater value
+print(ord("A"))
+print(ord("a"))
+print(ord('z'))
+print(ord('S'))
+
+print()
+print(ord('&'))
+print(ord('@'))
+print(ord('!'))
+print(ord('0'))
+print()
+
+print(chr(58))
+print()
+print(chr(65))
+print(chr(90))
+print()
+print(chr(97))
+print(chr(122))

@@ -1,0 +1,11 @@
+#math unicode
+print(chr(48))
+print(chr(49))
+print(chr(50))
+print(chr(51))
+print(chr(52))
+print(chr(53))
+print(chr(54))
+print(chr(55))
+print(chr(56))
+print(chr(57))

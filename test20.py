@@ -1,0 +1,13 @@
+import gc
+print(gc.isenabled())
+gc.disable()
+print(gc.isenabled())
+gc.enable()
+print(gc.isenabled())
+gc.disable()
+print(gc.isenabled())
+gc.enable()
+gc.disable()
+print(gc.isenabled())
+gc.enable()
+print(gc.isenabled())
